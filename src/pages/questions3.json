@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "qtype": "manylines-text-quest",
+      "label": "The purpose of this discussion is to read the following article and use prose and graphing to answer the questions below. 'Coronavirus Adds to Pressure for U.S. Oil Industry' by Clifford Krauss, updated Feb. 5, 2020. URL: https://www.proquest.com/docview/2351835164?accountid=8361&amp;sourcetype=Newspapers (copy and paste the address to your webpage). Explain briefly Why a lower world price for oil results in just 10% decrease in profits of an oil company in Saudi-Arabia compared to that of 60% decline in oil company in the U.S. given that U.S. firms have at least the same technological advantage as Saudi-Arabia?",
+      "Ref": ""
+    },
+    {
+      "qtype": "manylines-text-quest",
+      "label": "Oil is a globally traded commodity whose price per barrel is determined by global forces of demand and supply. A small individual oil company (such as those in Oklahoma) has no control over prices. If the price were to fall below the 'break-even' level of $45, Explain why the U.S. firm might continue to produce some output even though such decision leads to a loss because price is below the break-even point. ",
+      "Ref": ""
+    },
+    {
+      "qtype": "graphing-quest",
+      "label": "Sketch the firm's optimal output and losses if it produces vs it doesn't produce. Use the same diagram for both decisions.",
+      "Ref": ""
+    }
+  ]
+}
