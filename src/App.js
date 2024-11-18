@@ -1,11 +1,12 @@
 // App.js
 import React from "react"
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+import { HashRouter as Router, Routes, Route } from "react-router-dom"
 import "./App.css"
 import Navbar from "./components/Navbar"
 import Home from "./pages"
 import Discussion03 from "./pages/Discussion03"
 import Footer from "./components/Footer" // Import the Footer component
+//import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 function App() {
   return (
