@@ -2,16 +2,16 @@
 "use client"
 import React from "react"
 import {
-  Scale3d,
-  Minus,
+  // Scale3d,
+  // Minus,
   Dot,
   Hexagon,
-  RectangleHorizontal,
-  Circle,
-  Pencil,
+  // RectangleHorizontal,
+  // Circle,
+  // Pencil,
   Spline,
   MoveUpRight,
-  MoveDiagonal,
+  // MoveDiagonal,
   Type,
   MousePointer2,
 } from "lucide-react"
