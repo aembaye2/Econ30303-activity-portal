@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Econ30303-activity-portal/static/css/main.502cf824.chunk.css",
-    "main.js": "/Econ30303-activity-portal/static/js/main.c124980a.chunk.js",
-    "main.js.map": "/Econ30303-activity-portal/static/js/main.c124980a.chunk.js.map",
+    "main.js": "/Econ30303-activity-portal/static/js/main.57103f70.chunk.js",
+    "main.js.map": "/Econ30303-activity-portal/static/js/main.57103f70.chunk.js.map",
     "runtime-main.js": "/Econ30303-activity-portal/static/js/runtime-main.61208f6e.js",
     "runtime-main.js.map": "/Econ30303-activity-portal/static/js/runtime-main.61208f6e.js.map",
     "static/js/2.b01ee4ea.chunk.js": "/Econ30303-activity-portal/static/js/2.b01ee4ea.chunk.js",
     "static/js/2.b01ee4ea.chunk.js.map": "/Econ30303-activity-portal/static/js/2.b01ee4ea.chunk.js.map",
     "index.html": "/Econ30303-activity-portal/index.html",
-    "precache-manifest.11d40b0873ee5c26bda0e1b38ff3d067.js": "/Econ30303-activity-portal/precache-manifest.11d40b0873ee5c26bda0e1b38ff3d067.js",
+    "precache-manifest.59cb94b2162708bf5979204eee6408a9.js": "/Econ30303-activity-portal/precache-manifest.59cb94b2162708bf5979204eee6408a9.js",
     "service-worker.js": "/Econ30303-activity-portal/service-worker.js",
     "static/css/main.502cf824.chunk.css.map": "/Econ30303-activity-portal/static/css/main.502cf824.chunk.css.map",
     "static/js/2.b01ee4ea.chunk.js.LICENSE.txt": "/Econ30303-activity-portal/static/js/2.b01ee4ea.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.61208f6e.js",
     "static/js/2.b01ee4ea.chunk.js",
     "static/css/main.502cf824.chunk.css",
-    "static/js/main.c124980a.chunk.js"
+    "static/js/main.57103f70.chunk.js"
   ]
 }
